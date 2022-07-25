@@ -11,7 +11,7 @@ https://github.com/IbrahimBooz/kodluyoruzilkrepo.git
 Projeyi clonedıktan sonra Visual Studip Code programında açınız.
 
 Linuz için:
-
+sssssssssssssssssss
 `
 cd kodluyoruzilkrepo
 code .
