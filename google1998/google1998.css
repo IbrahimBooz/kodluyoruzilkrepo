@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+}
+.tip1 {
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color: rgb(214, 213, 213) ;
+}
+.tip2 {
+    width:33%;
+    margin-right: 5px;
+    margin-left: 150px;
+    margin-top: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    line-height: 20px;
+    background-color: rgb(122, 216, 245);
+    
+}
+.tip3 {
+    float: left;
+    margin-top: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 90px;
+    padding-right:90px;
+    background-color: rgb(98, 219, 228);
+    margin-right: 5px;
+    
+}
+.tip4 {
+    float: left;
+    margin-top: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 265px;
+    padding-right:265px;
+    background-color: rgb(62, 204, 204);
+    
+}
+/* bütün yazıları küçültmek için kullandım */
+* {
+    font-size: small;
+}
+/* ortalamak ve üstten boşluk bırakmak için kullandım */
+footer {
+    margin-top: 12px;
+    text-align: center;
+
+}
